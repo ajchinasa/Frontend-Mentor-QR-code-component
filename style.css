@@ -24,6 +24,8 @@ img {
   border: 4px;
   border-radius: 10px;
 }
+
+/* Style for lower csrd part */
 .first-P {
   font-family: "Outfit", sans-serif;
   font-weight: 700;
@@ -39,6 +41,7 @@ img {
   margin-right: 20px;
   padding-bottom: 30px;
 }
+/* Style for footer */
 footer {
   display: flex;
   align-items: center;
@@ -46,6 +49,8 @@ footer {
   position: relative;
   top: 150px;
 }
+
+/* media querry */
 @media screen and (max-width: 375px) {
   .main {
     width: 80%;
